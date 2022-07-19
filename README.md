@@ -3,5 +3,5 @@ sms-jd
 
 docker一键
 
-docker run -dit -p 6705:6789 --name jdck  caochunhua2022/jdck:latest
+docker run -dit -p 6705:6789 --name jdck  AmazingYHT/jdck:latest
 image
